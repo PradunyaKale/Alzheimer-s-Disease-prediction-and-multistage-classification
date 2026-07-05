@@ -1,0 +1,24 @@
+# Dataset (too large for GitHub, download separately - see README)
+Alzheimer (Preprocessed Data)/
+
+# Trained model files (large, regenerate locally via the notebook)
+svm_model.pkl
+svm_model2.pkl
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
